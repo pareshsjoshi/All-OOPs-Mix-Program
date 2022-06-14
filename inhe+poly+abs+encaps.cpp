@@ -7,6 +7,7 @@ public:
 	void squareLen()
 	{
 		int iSqrLength;
+		//printing
 		printf("Enter length for Square: ");
 		scanf("%d", &iSqrLength);
 		printf("Length of Square is: %d\n", iSqrLength);
