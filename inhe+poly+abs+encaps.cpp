@@ -35,6 +35,7 @@ public:
 int main()
 {
 	Rectangle r;
+	//int t;
 	char cChar;
 	printf("Enter 's' for Square, Enter 'r' for Rectangle: ");
 	scanf("%c", &cChar);
